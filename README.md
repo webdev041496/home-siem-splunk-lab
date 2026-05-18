@@ -76,7 +76,7 @@ The command was run a total of 6 times across both sessions, generating 6 EventC
 
 **Result:** Splunk detection query identified the `hacker` account with a confirmed total count of 6 failed logins on `LAPTOP-LE8S2R19` across all time.
 
-![Brute Force Detection](screenshots/brute_force_detection.png)
+![Brute Force Detection](screenshots/brute_force_attack_simulation.png)
 
 ---
 
